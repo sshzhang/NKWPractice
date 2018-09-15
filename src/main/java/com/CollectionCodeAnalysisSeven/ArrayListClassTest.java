@@ -1,11 +1,9 @@
 package com.CollectionCodeAnalysisSeven;
 
-import java.io.FileOutputStream;
 import java.io.IOException;
-import java.io.ObjectOutputStream;
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.ListIterator;
+import java.util.List;
+import java.util.Spliterator;
 
 public class ArrayListClassTest extends  AbstractArrayListClassTest implements  ArrayListInterface {
     @Override
@@ -23,30 +21,31 @@ public class ArrayListClassTest extends  AbstractArrayListClassTest implements  
     }
 
     public static void main(String... args) throws IOException {
-        int[] copy = Arrays.copyOf(new int[]{1, 2, 3}, 10);
-        System.out.println(copy+" "+copy.length);
-        ArrayList<String> strings = new ArrayList<>();
-        strings.add("a");
-        strings.add("h");
-        strings.add("e");
-        System.out.println(strings);
-        strings.removeIf(new ArrayListPredictFilter<>());
-        System.out.println(strings);
-       /* ListIterator<String> stringListIterator =
-                strings.listIterator();
-        while (stringListIterator.hasNext()) {
-            //stringListIterator.set(stringListIterator.next() + "12");
-            stringListIterator.next();
-            stringListIterator.remove();
-        }
-        System.out.println(strings);*/
 
+        List<String>  arrs = new ArrayList<>();
+        arrs.add("a");
+        arrs.add("b");
+        arrs.add("c");
+        arrs.add("d");
+        arrs.add("e");
+        arrs.add("f");
+        arrs.add("h");
+        arrs.add("i");
+        arrs.add("j");
+        Spliterator<String> a =  arrs.spliterator();
+        System.out.println(a);
+        //此时结果：a:0-9（index-fence）
+        Spliterator<String> b = a.trySplit();
+        System.out.println(b);
+
+        Spliterator<String> c = b.trySplit();
+        System.out.println(c);
 
     }
 
     @Override
     public void text1(int size) {
-        System.out.println("ArrayListClassTest.text1()");
+        System.out.println("ArrayListClassTest.BinaryTreeNoReculsive()");
     }
 
     public void text1() {

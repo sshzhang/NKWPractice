@@ -4,9 +4,11 @@ import java.util.*;
 /**
  * 不同字符的全排列
  *
+ * 及二叉树的所有非递归方式
+ *
  * 抽取掉其中一个 求抽取的那个排序
  */
-public class text1 {
+public class BinaryTreeNoReculsive {
 
     public  void text() {
 
@@ -160,7 +162,7 @@ public class text1 {
         rootright.right = new TreeNode(16);
         root.right.right.right = new TreeNode(18);
 
-        new text1().lastDepathTraverse(root);
+        new BinaryTreeNoReculsive().lastDepathTraverse(root);
 
     }
 

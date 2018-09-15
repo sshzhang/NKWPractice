@@ -22,6 +22,7 @@ ArrayList 类  非同步类 不是线程安全的 ， Vector类可以说是线�
 
        /**
         * Shared empty array instance used for empty instances.
+           主要用于空对象实例数组  当初始化时 传入的容量为0  数组 elementData 就直接引用此对象
         */
        private static final Object[] EMPTY_ELEMENTDATA = {};
 
@@ -29,6 +30,8 @@ ArrayList 类  非同步类 不是线程安全的 ， Vector类可以说是线�
         * Shared empty array instance used for default sized empty instances. We
         * distinguish this from EMPTY_ELEMENTDATA to know how much to inflate when
         * first element is added.
+          共享数组实例 用于默认大小的空实例, 当添加元素的时候,我们通过EMPTY_ELEMENTDATA来知道如何扩充数组元素
+          其实就是扩充一个默认的长度DEFAULT_CAPACITY=10
         */
        private static final Object[] DEFAULTCAPACITY_EMPTY_ELEMENTDATA = {};
 
@@ -37,12 +40,13 @@ ArrayList 类  非同步类 不是线程安全的 ， Vector类可以说是线�
         * The capacity of the ArrayList is the length of this array buffer. Any
         * empty ArrayList with elementData == DEFAULTCAPACITY_EMPTY_ELEMENTDATA
         * will be expanded to DEFAULT_CAPACITY when the first element is added.
+          存储线性表中的相应的数据,任何没有传入容量大小的空线性表，默认都指向DEFAULTCAPACITY_EMPTY_ELEMENTDATA，当第一个元素添加时，此对象将会扩张成默认长度10
         */
        transient Object[] elementData; // non-private to simplify nested class access
 
        /**
         * The size of the ArrayList (the number of elements it contains).
-        *
+        * 序列中真实的元素个数,因为可能存在扩容数组未填满时 elementData.length>size
         * @serial
         */
        private int size;
@@ -57,7 +61,7 @@ ArrayList 类  非同步类 不是线程安全的 ， Vector类可以说是线�
        public ArrayList(int initialCapacity) {
            if (initialCapacity > 0) {
                this.elementData = new Object[initialCapacity];
-           } else if (initialCapacity == 0) {
+           } else if (initialCapacity == 0) {//容量为0时，指向共享的空数组EMPTY_ELEMENTDATA
                this.elementData = EMPTY_ELEMENTDATA;
            } else {
                throw new IllegalArgumentException("Illegal Capacity: "+
@@ -67,6 +71,8 @@ ArrayList 类  非同步类 不是线程安全的 ， Vector类可以说是线�
 
        /**
         * Constructs an empty list with an initial capacity of ten.
+        × 创建一个空的线性表 默认的容量为10
+        ×
         */
        public ArrayList() {
            this.elementData = DEFAULTCAPACITY_EMPTY_ELEMENTDATA;
@@ -79,6 +85,8 @@ ArrayList 类  非同步类 不是线程安全的 ， Vector类可以说是线�
         *
         * @param c the collection whose elements are to be placed into this list
         * @throws NullPointerException if the specified collection is null
+        *
+        * 根据集合中的元素构造线性表
         */
        public ArrayList(Collection<? extends E> c) {
            elementData = c.toArray();
@@ -96,6 +104,7 @@ ArrayList 类  非同步类 不是线程安全的 ， Vector类可以说是线�
         * Trims the capacity of this <tt>ArrayList</tt> instance to be the
         * list's current size.  An application can use this operation to minimize
         * the storage of an <tt>ArrayList</tt> instance.
+        * 最小化线性表的存储空间  其实就是把没有使用的空间收回 使的最后的元素个数和分配的空间刚好合适
         */
        public void trimToSize() {
            modCount++;
@@ -112,6 +121,8 @@ ArrayList 类  非同步类 不是线程安全的 ， Vector类可以说是线�
         * specified by the minimum capacity argument.
         *
         * @param   minCapacity   the desired minimum capacity
+        *  检查是否需要扩展数组的长度, 需要就调用相应的方法，否则不变
+        *
         */
        public void ensureCapacity(int minCapacity) {
            int minExpand = (elementData != DEFAULTCAPACITY_EMPTY_ELEMENTDATA)
@@ -155,6 +166,7 @@ ArrayList 类  非同步类 不是线程安全的 ， Vector类可以说是线�
         * number of elements specified by the minimum capacity argument.
         *
         * @param minCapacity the desired minimum capacity
+        * 增加容量以确保至少能容纳minCapacity个元素
         */
        private void grow(int minCapacity) {
            // overflow-conscious code
@@ -167,7 +179,7 @@ ArrayList 类  非同步类 不是线程安全的 ， Vector类可以说是线�
            // minCapacity is usually close to size, so this is a win:
            elementData = Arrays.copyOf(elementData, newCapacity);
        }
-
+       // 分配打的内存
        private static int hugeCapacity(int minCapacity) {
            if (minCapacity < 0) // overflow
                throw new OutOfMemoryError();

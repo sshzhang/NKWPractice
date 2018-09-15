@@ -7,7 +7,7 @@ public abstract class AbstractArrayListClassTest implements ArrayListBaseInterfa
     }
 
     public void text1() {
-        System.out.println("AbstractArrayListClassTest.text1()");
+        System.out.println("AbstractArrayListClassTest.BinaryTreeNoReculsive()");
     }
     public abstract void text1(int size);
 }
