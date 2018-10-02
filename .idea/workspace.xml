@@ -2,24 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6182ac0-074a-4a6a-8478-13b0e199a4e7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/EntryNodeOfLoopC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/GetNextC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/PrintC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/SerializeADerializeC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/StringFirstNotRepeatChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/isNumeriC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/isSymmetricalC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/CollectionCodeAnalysisSeven/HashMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jvm/test/FieldImpleme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/GetMedianAndInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/KthNodeC.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/CollectionCodeAnalysisSeven/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/CollectionCodeAnalysisSeven/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jvm/test/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jvm/test/TestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jvm/test/TestClassSon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jvm/test/TestClassSon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/CollectionCodeAnalysisSeven/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/CollectionCodeAnalysisSeven/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jianzhioffer/domain/CheckSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jianzhioffer/domain/CheckSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jvm/test/TestClass$MYInnerClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jvm/test/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jvm/test/TestClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jvm/test/TestClassSon.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jvm/test/TestClassSon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/SerializeADerializeC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/SerializeADerializeC.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -52,13 +38,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="53" />
-          <entry key="java" value="31773" />
+          <entry key="java" value="32352" />
           <entry key="txt" value="559" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="31770" />
+          <entry key="JAVA" value="32349" />
           <entry key="PLAIN_TEXT" value="612" />
           <entry key="RegExp" value="3" />
         </counts>
@@ -67,14 +53,14 @@
         <counts>
           <entry key="TestClass" value="1" />
           <entry key="class" value="3" />
-          <entry key="java" value="154" />
+          <entry key="java" value="157" />
           <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="3" />
-          <entry key="JAVA" value="154" />
+          <entry key="JAVA" value="157" />
           <entry key="PLAIN_TEXT" value="5" />
           <entry key="UML" value="1" />
         </counts>
@@ -125,11 +111,36 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/SerializeADerializeC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
-              <caret line="276" column="9" lean-forward="true" selection-start-line="276" selection-start-column="9" selection-end-line="276" selection-end-column="9" />
+            <state relative-caret-position="132">
+              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#PrintDepth#0;class#SerializeADerializeC#0" />
+                <element signature="e#6291#6292#0" expanded="true" />
+                <element signature="e#6318#6319#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/KthNodeC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/GetMedianAndInsert.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" column="46" lean-forward="true" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -189,8 +200,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/text1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/SubArrayMaxSum.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/MinkNum.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/bibi.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
@@ -239,6 +248,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/isSymmetricalC.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/GetNextC.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/PrintC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/KthNodeC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/GetMedianAndInsert.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/SerializeADerializeC.java" />
       </list>
     </option>
@@ -413,10 +424,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="SearchEverywhereHistoryKey" value="Stack&#9;FILE&#9;jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/Stack.java&#10;Arra&#9;FILE&#9;jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/Arrays.java&#10;is&#9;FILE&#9;file:///home/zxj/IdeaProjects/NKWPractice/src/main/java/com.jianzhioffer.domain/isNumeriC.java&#10;Hashse&#9;PSI&#9;JAVA://java.util.HashSet&#10;Hash&#9;FILE&#9;jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/HashMap.java&#10;ArraList&#9;FILE&#9;jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/ArrayList.java&#10;TestClass&#9;FILE&#9;file:///home/zxj/IdeaProjects/NKWPractice/src/main/java/com/jvm/test/TestClass.java&#10;MethodHandles&#9;PSI&#9;JAVA://java.lang.invoke.MethodHandles&#10;MethodHandler&#9;PSI&#9;JAVA://java.lang.invoke.MethodHandle&#10;MethodType&#9;PSI&#9;JAVA://java.lang.invoke.MethodType&#10;MethodHandlers&#9;PSI&#9;JAVA://com.sun.xml.internal.ws.client.sei.SEIStub#methodHandlers&#10;java.lang.invoke&#9;PSI&#9;JAVA://java.lang.invoke.Invokers&#10;System&#9;PSI&#9;JAVA://java.lang.System&#10;AppClass&#9;PSI&#9;JAVA://sun.misc.Launcher.AppClassLoader&#10;ClassLoader&#9;PSI&#9;JAVA://java.lang.ClassLoader&#10;ClassLoa&#9;PSI&#9;JAVA://com.sun.org.apache.bcel.internal.util.ClassLoader&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;Compara&#9;PSI&#9;JAVA://java.lang.Comparable&#10;ArrayList&#9;FILE&#9;jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/ArrayList.java&#10;Arrays&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Arrays.java&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;Predicate&#9;PSI&#9;JAVA://java.util.function.Predicate&#10;Vector&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Vector.java&#10;Executors&#9;PSI&#9;JAVA://java.util.concurrent.Executors&#10;Executor&#9;PSI&#9;JAVA://java.util.concurrent.Executor&#10;LongA&#9;PSI&#9;JAVA://java.util.concurrent.atomic.LongAdder&#10;AtomicLong&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicLong" />
+    <property name="SearchEverywhereHistoryKey" value="Ser&#9;FILE&#9;file:///home/zxj/IdeaProjects/NKWPractice/src/main/java/com.jianzhioffer.domain/SerializeADerializeC.java&#10;Stack&#9;FILE&#9;jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/Stack.java&#10;Arra&#9;FILE&#9;jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/Arrays.java&#10;is&#9;FILE&#9;file:///home/zxj/IdeaProjects/NKWPractice/src/main/java/com.jianzhioffer.domain/isNumeriC.java&#10;Hashse&#9;PSI&#9;JAVA://java.util.HashSet&#10;Hash&#9;FILE&#9;jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/HashMap.java&#10;ArraList&#9;FILE&#9;jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/ArrayList.java&#10;TestClass&#9;FILE&#9;file:///home/zxj/IdeaProjects/NKWPractice/src/main/java/com/jvm/test/TestClass.java&#10;MethodHandles&#9;PSI&#9;JAVA://java.lang.invoke.MethodHandles&#10;MethodHandler&#9;PSI&#9;JAVA://java.lang.invoke.MethodHandle&#10;MethodType&#9;PSI&#9;JAVA://java.lang.invoke.MethodType&#10;MethodHandlers&#9;PSI&#9;JAVA://com.sun.xml.internal.ws.client.sei.SEIStub#methodHandlers&#10;java.lang.invoke&#9;PSI&#9;JAVA://java.lang.invoke.Invokers&#10;System&#9;PSI&#9;JAVA://java.lang.System&#10;AppClass&#9;PSI&#9;JAVA://sun.misc.Launcher.AppClassLoader&#10;ClassLoader&#9;PSI&#9;JAVA://java.lang.ClassLoader&#10;ClassLoa&#9;PSI&#9;JAVA://com.sun.org.apache.bcel.internal.util.ClassLoader&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;Compara&#9;PSI&#9;JAVA://java.lang.Comparable&#10;ArrayList&#9;FILE&#9;jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/ArrayList.java&#10;Arrays&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Arrays.java&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;Predicate&#9;PSI&#9;JAVA://java.util.function.Predicate&#10;Vector&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Vector.java&#10;Executors&#9;PSI&#9;JAVA://java.util.concurrent.Executors&#10;Executor&#9;PSI&#9;JAVA://java.util.concurrent.Executor&#10;LongA&#9;PSI&#9;JAVA://java.util.concurrent.atomic.LongAdder&#10;AtomicLong&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicLong" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538485366395" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538488007557" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -576,12 +587,12 @@
       <workItem from="1536402041550" duration="28663000" />
       <workItem from="1536482832934" duration="6090000" />
       <workItem from="1536537708036" duration="71306000" />
-      <workItem from="1538100565071" duration="51045000" />
+      <workItem from="1538100565071" duration="53722000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="175907000" />
+    <option name="totallyTimeSpent" value="178584000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
@@ -593,7 +604,7 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Designer" order="4" />
       <window_info id="Web" order="5" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="6" weight="0.21503593" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.21503593" />
       <window_info id="Structure" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.55497384" />
@@ -878,31 +889,31 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/SerializeADerializeC.java</url>
-          <line>232</line>
+          <line>229</line>
           <properties />
           <option name="timeStamp" value="105" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/SerializeADerializeC.java</url>
-          <line>134</line>
+          <line>132</line>
           <properties />
           <option name="timeStamp" value="106" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/SerializeADerializeC.java</url>
-          <line>62</line>
+          <line>60</line>
           <properties />
           <option name="timeStamp" value="108" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/SerializeADerializeC.java</url>
-          <line>15</line>
+          <line>13</line>
           <properties />
           <option name="timeStamp" value="109" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/SerializeADerializeC.java</url>
-          <line>180</line>
+          <line>178</line>
           <properties />
           <option name="timeStamp" value="110" />
         </line-breakpoint>
@@ -915,20 +926,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/lang/invoke/MethodHandles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="398" column="21" selection-start-line="398" selection-start-column="21" selection-end-line="398" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jvm/test/NotInitialization.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="17" column="74" lean-forward="true" selection-start-line="17" selection-start-column="74" selection-end-line="17" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/FindNumbersWithSumC.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -1150,17 +1147,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1518">
-          <caret line="99" column="18" lean-forward="true" selection-start-line="99" selection-start-column="18" selection-end-line="99" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#54492#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/Hashtable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -1326,13 +1312,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/KthNodeC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="378" column="27" selection-start-line="378" selection-start-column="20" selection-end-line="378" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#54492#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/GetMedianAndInsert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="46" lean-forward="true" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/SerializeADerializeC.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="276" column="9" lean-forward="true" selection-start-line="276" selection-start-column="9" selection-end-line="276" selection-end-column="9" />
+        <state relative-caret-position="132">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#PrintDepth#0;class#SerializeADerializeC#0" />
+            <element signature="e#6291#6292#0" expanded="true" />
+            <element signature="e#6318#6319#0" expanded="true" />
           </folding>
         </state>
       </provider>

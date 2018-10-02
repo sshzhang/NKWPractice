@@ -1,12 +1,10 @@
 package com.jianzhioffer.domain;
 
 import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.Queue;
 import java.util.Stack;
 
 /**
- * 二叉树的序列化和反序列化(xianx)
+ * 二叉树的序列化和反序列化(先序遍历)
  */
 public class SerializeADerializeC {
 
@@ -187,7 +185,8 @@ public class SerializeADerializeC {
             stackNode.push(currNode);
             currNode = currNode.left;
         }
-
+        //左边节点的结束节点
+        builder.append("#,");
         while (!stackNode.isEmpty()) {
             TreeNode pop = stackNode.pop();
             TreeNode right = pop.right;
@@ -197,16 +196,14 @@ public class SerializeADerializeC {
                 stackNode.push(right);
                 right = right.left;
             }
+            builder.append("#,");
             preNode = pop;
         }
-
         String s = builder.toString();
-
         return s.substring(0, s.length()-1);
     }
 
     TreeNode Deserialize1(String str) {
-
         return null;
     }
 
