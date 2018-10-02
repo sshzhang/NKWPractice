@@ -2,48 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6182ac0-074a-4a6a-8478-13b0e199a4e7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/ArrayFindOnlyValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/ArrayInverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/BalanceBinaryTreeProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/CheckSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/FindLinkListFirstCommonNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/FindNumbersWithSumC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/LeftRotateStringC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/NumberOfK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/OnlyOneString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/ReverseSentenceC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/TheDepthOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/TheTimes1Occures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/arrayminvalue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/choushu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/isContinuousC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/lianxuSumk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/meituan_2CompleteBackpack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/meituan_2Update.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/order/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/order/ReclusiveSplitter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/wangyi03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/wangyi2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/CollectionCodeAnalysisSeven/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jvm/test/ConstClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jvm/test/NotInitialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jvm/test/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jvm/test/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jvm/test/TestClassSon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jvm/test/ThreadDepthProblem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/EntryNodeOfLoopC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/GetNextC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/PrintC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/SerializeADerializeC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/StringFirstNotRepeatChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/isNumeriC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/isSymmetricalC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/CollectionCodeAnalysisSeven/HashMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jvm/test/FieldImpleme.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/meituan_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/meituan_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/text1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/BinaryTreeNoReculsive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/CollectionCodeAnalysisSeven/AbstractArrayListClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/CollectionCodeAnalysisSeven/AbstractArrayListClassTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/CollectionCodeAnalysisSeven/ArrayListClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/CollectionCodeAnalysisSeven/ArrayListClassTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/CollectionCodeAnalysisSeven/ArrayListNotes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/CollectionCodeAnalysisSeven/ArrayListNotes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/CollectionCodeAnalysisSeven/AbstractArrayListClassTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/CollectionCodeAnalysisSeven/AbstractArrayListClassTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/CollectionCodeAnalysisSeven/ArrayListClassTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/CollectionCodeAnalysisSeven/ArrayListClassTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jianzhioffer/domain/FromTopToDownPrint.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jianzhioffer/domain/FromTopToDownPrint.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jianzhioffer/domain/bibi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jianzhioffer/domain/bibi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jianzhioffer/domain/text1$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jianzhioffer/domain/text1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/CollectionCodeAnalysisSeven/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/CollectionCodeAnalysisSeven/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jvm/test/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jvm/test/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jvm/test/TestClassSon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jvm/test/TestClassSon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/CollectionCodeAnalysisSeven/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/CollectionCodeAnalysisSeven/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jianzhioffer/domain/CheckSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jianzhioffer/domain/CheckSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jvm/test/TestClass$MYInnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jvm/test/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jvm/test/TestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jvm/test/TestClassSon.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jvm/test/TestClassSon.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -66,39 +42,40 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="53" />
-          <entry key="java" value="22446" />
+          <entry key="java" value="31773" />
           <entry key="txt" value="559" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="22445" />
+          <entry key="JAVA" value="31770" />
           <entry key="PLAIN_TEXT" value="612" />
-          <entry key="RegExp" value="1" />
+          <entry key="RegExp" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="TestClass" value="1" />
           <entry key="class" value="3" />
-          <entry key="java" value="108" />
-          <entry key="txt" value="4" />
+          <entry key="java" value="154" />
+          <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="3" />
-          <entry key="JAVA" value="108" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="JAVA" value="154" />
+          <entry key="PLAIN_TEXT" value="5" />
           <entry key="UML" value="1" />
         </counts>
       </usages-collector>
@@ -107,68 +84,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jvm/test/TestClass.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/GetNextC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="726">
+              <caret line="48" column="17" lean-forward="true" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
               <folding>
-                <element signature="e#180#181#0" expanded="true" />
-                <element signature="e#208#209#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/CheckSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="162" column="10" selection-start-line="162" selection-start-column="10" selection-end-line="162" selection-end-column="10" />
-              <folding>
-                <element signature="method#findTheSum#0;class#CheckSum#0" />
-                <element signature="method#duiSortedOrder#0;class#CheckSum#0" />
-                <element signature="method#InsertOrder#0;class#CheckSum#0" />
-                <element signature="docComment;method#MergeOrder#0;class#CheckSum#0" />
-                <element signature="method#MergeOrder#0;class#CheckSum#0" />
-                <element signature="method#fastOrder#0;class#CheckSum#0" />
-                <element signature="method#Order#0;class#CheckSum#0" />
+                <element signature="e#239#240#0" expanded="true" />
+                <element signature="e#269#270#0" expanded="true" />
+                <element signature="e#1998#2018#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/MinkNum.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/isSymmetricalC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="658">
-              <caret line="84" column="15" selection-start-line="84" selection-start-column="14" selection-end-line="84" selection-end-column="15" />
+            <state relative-caret-position="-110">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#237#238#0" expanded="true" />
+                <element signature="e#275#276#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/ArrayInverseNumber.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/PrintC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="39" column="20" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/arrayminvalue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1012">
-              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/BalanceBinaryTreeProblem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-397">
-              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+            <state relative-caret-position="154">
+              <caret line="46" column="24" lean-forward="true" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -176,17 +122,45 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jvm/test/TestClassSon.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/SerializeADerializeC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+            <state relative-caret-position="704">
+              <caret line="276" column="9" lean-forward="true" selection-start-line="276" selection-start-column="9" selection-end-line="276" selection-end-column="9" />
               <folding>
-                <element signature="e#92#93#0" expanded="true" />
-                <element signature="e#115#116#0" expanded="true" />
-                <element signature="e#154#155#0" expanded="true" />
-                <element signature="e#188#189#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="method#PrintDepth#0;class#SerializeADerializeC#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/Stack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="66" column="15" selection-start-line="66" selection-start-column="15" selection-end-line="66" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#3888#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/Vector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="620" column="35" lean-forward="true" selection-start-line="620" selection-start-column="35" selection-end-line="620" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/LinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="774" lean-forward="true" selection-start-line="774" selection-end-line="774" />
             </state>
           </provider>
         </entry>
@@ -215,15 +189,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/CollectionCodeAnalysisSeven/ArrayListBaseInterface.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/CollectionCodeAnalysisSeven/ArrayListInterface.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/CollectionCodeAnalysisSeven/AbstractArrayListClassTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/CollectionCodeAnalysisSeven/ArrayListPredictFilter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/CopyTheComplicatedLinkList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/BinarysrarchTreeToLinkList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/BinarysrarchTreeToLinkListSimpleOne.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/zifuchuanglistAll.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/NumInArrays.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/text1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/SubArrayMaxSum.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/MinkNum.java" />
@@ -238,7 +203,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/CollectionCodeAnalysisSeven/ArrayListClassTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/CollectionCodeAnalysisSeven/TestClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/CollectionCodeAnalysisSeven/test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/CollectionCodeAnalysisSeven/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/arrayminvalue.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/choushu.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/BinaryTreeNoReculsive.java" />
@@ -263,9 +227,19 @@
         <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/LeftRotateStringC.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/ReverseSentenceC.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/isContinuousC.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jvm/test/TestClass.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jvm/test/TestClassSon.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/CheckSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jvm/test/TestClassSon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jvm/test/FieldImpleme.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jvm/test/TestClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/isNumeriC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/StringFirstNotRepeatChar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/CollectionCodeAnalysisSeven/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/CollectionCodeAnalysisSeven/HashMapTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/EntryNodeOfLoopC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/isSymmetricalC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/GetNextC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/PrintC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/SerializeADerializeC.java" />
       </list>
     </option>
   </component>
@@ -293,17 +267,18 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="251" />
+    <option name="y" value="96" />
     <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="height" value="716" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -344,7 +319,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="CollectionCodeAnalysisSeven" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test" type="b2602c69:ProjectViewProjectNode" />
@@ -359,22 +334,89 @@
               <item name="NKWPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com.jianzhioffer.domain" type="462c0819:PsiDirectoryNode" />
+              <item name="EntryNodeOfLoopC.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NKWPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="atomic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="locks" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="SearchEverywhereHistoryKey" value="TestClass&#9;FILE&#9;file:///home/zxj/IdeaProjects/NKWPractice/src/main/java/com/jvm/test/TestClass.java&#10;MethodHandles&#9;PSI&#9;JAVA://java.lang.invoke.MethodHandles&#10;MethodHandler&#9;PSI&#9;JAVA://java.lang.invoke.MethodHandle&#10;MethodType&#9;PSI&#9;JAVA://java.lang.invoke.MethodType&#10;MethodHandlers&#9;PSI&#9;JAVA://com.sun.xml.internal.ws.client.sei.SEIStub#methodHandlers&#10;java.lang.invoke&#9;PSI&#9;JAVA://java.lang.invoke.Invokers&#10;System&#9;PSI&#9;JAVA://java.lang.System&#10;AppClass&#9;PSI&#9;JAVA://sun.misc.Launcher.AppClassLoader&#10;ClassLoader&#9;PSI&#9;JAVA://java.lang.ClassLoader&#10;ClassLoa&#9;PSI&#9;JAVA://com.sun.org.apache.bcel.internal.util.ClassLoader&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;Compara&#9;PSI&#9;JAVA://java.lang.Comparable&#10;ArrayList&#9;FILE&#9;jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/ArrayList.java&#10;Arrays&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Arrays.java&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;Predicate&#9;PSI&#9;JAVA://java.util.function.Predicate&#10;Vector&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Vector.java&#10;Arra&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/ArrayList.java&#10;Executors&#9;PSI&#9;JAVA://java.util.concurrent.Executors&#10;Executor&#9;PSI&#9;JAVA://java.util.concurrent.Executor&#10;Stack&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Stack.java&#10;LongA&#9;PSI&#9;JAVA://java.util.concurrent.atomic.LongAdder&#10;AtomicLong&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicLong" />
+    <property name="SearchEverywhereHistoryKey" value="Stack&#9;FILE&#9;jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/Stack.java&#10;Arra&#9;FILE&#9;jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/Arrays.java&#10;is&#9;FILE&#9;file:///home/zxj/IdeaProjects/NKWPractice/src/main/java/com.jianzhioffer.domain/isNumeriC.java&#10;Hashse&#9;PSI&#9;JAVA://java.util.HashSet&#10;Hash&#9;FILE&#9;jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/HashMap.java&#10;ArraList&#9;FILE&#9;jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/ArrayList.java&#10;TestClass&#9;FILE&#9;file:///home/zxj/IdeaProjects/NKWPractice/src/main/java/com/jvm/test/TestClass.java&#10;MethodHandles&#9;PSI&#9;JAVA://java.lang.invoke.MethodHandles&#10;MethodHandler&#9;PSI&#9;JAVA://java.lang.invoke.MethodHandle&#10;MethodType&#9;PSI&#9;JAVA://java.lang.invoke.MethodType&#10;MethodHandlers&#9;PSI&#9;JAVA://com.sun.xml.internal.ws.client.sei.SEIStub#methodHandlers&#10;java.lang.invoke&#9;PSI&#9;JAVA://java.lang.invoke.Invokers&#10;System&#9;PSI&#9;JAVA://java.lang.System&#10;AppClass&#9;PSI&#9;JAVA://sun.misc.Launcher.AppClassLoader&#10;ClassLoader&#9;PSI&#9;JAVA://java.lang.ClassLoader&#10;ClassLoa&#9;PSI&#9;JAVA://com.sun.org.apache.bcel.internal.util.ClassLoader&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;Compara&#9;PSI&#9;JAVA://java.lang.Comparable&#10;ArrayList&#9;FILE&#9;jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/ArrayList.java&#10;Arrays&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Arrays.java&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;Predicate&#9;PSI&#9;JAVA://java.util.function.Predicate&#10;Vector&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Vector.java&#10;Executors&#9;PSI&#9;JAVA://java.util.concurrent.Executors&#10;Executor&#9;PSI&#9;JAVA://java.util.concurrent.Executor&#10;LongA&#9;PSI&#9;JAVA://java.util.concurrent.atomic.LongAdder&#10;AtomicLong&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicLong" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537001299754" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538485366395" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -398,15 +440,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CheckSum">
+  <component name="RunManager" selected="Application.SerializeADerializeC">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jianzhioffer.domain.CheckSum" />
+    <configuration name="GetNextC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jianzhioffer.domain.GetNextC" />
       <module name="NKWPractice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -419,8 +461,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseSentenceC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jianzhioffer.domain.ReverseSentenceC" />
+    <configuration name="HashMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.CollectionCodeAnalysisSeven.HashMapTest" />
+      <module name="NKWPractice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.CollectionCodeAnalysisSeven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jianzhioffer.domain.PrintC" />
       <module name="NKWPractice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -433,13 +489,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jvm.test.TestClass" />
+    <configuration name="SerializeADerializeC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jianzhioffer.domain.SerializeADerializeC" />
       <module name="NKWPractice" />
-      <option name="VM_PARAMETERS" value="-verbose:gc" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jvm.test.*" />
+          <option name="PATTERN" value="com.jianzhioffer.domain.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -453,22 +509,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="isContinuousC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jianzhioffer.domain.isContinuousC" />
-      <module name="NKWPractice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jianzhioffer.domain.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lianxuSumk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jianzhioffer.domain.lianxuSumk" />
+    <configuration name="isNumeriC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jianzhioffer.domain.isNumeriC" />
       <module name="NKWPractice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -505,19 +547,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.lianxuSumk" />
-      <item itemvalue="Application.ReverseSentenceC" />
-      <item itemvalue="Application.isContinuousC" />
-      <item itemvalue="Application.TestClass" />
-      <item itemvalue="Application.CheckSum" />
+      <item itemvalue="Application.isNumeriC" />
+      <item itemvalue="Application.HashMapTest" />
+      <item itemvalue="Application.GetNextC" />
+      <item itemvalue="Application.PrintC" />
+      <item itemvalue="Application.SerializeADerializeC" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CheckSum" />
-        <item itemvalue="Application.TestClass" />
-        <item itemvalue="Application.isContinuousC" />
-        <item itemvalue="Application.ReverseSentenceC" />
-        <item itemvalue="Application.lianxuSumk" />
+        <item itemvalue="Application.SerializeADerializeC" />
+        <item itemvalue="Application.PrintC" />
+        <item itemvalue="Application.GetNextC" />
+        <item itemvalue="Application.HashMapTest" />
+        <item itemvalue="Application.isNumeriC" />
       </list>
     </recent_temporary>
   </component>
@@ -534,11 +576,12 @@
       <workItem from="1536402041550" duration="28663000" />
       <workItem from="1536482832934" duration="6090000" />
       <workItem from="1536537708036" duration="71306000" />
+      <workItem from="1538100565071" duration="51045000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124862000" />
+    <option name="totallyTimeSpent" value="175907000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
@@ -815,267 +858,63 @@
           <properties />
           <option name="timeStamp" value="94" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/GetNextC.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/PrintC.java</url>
+          <line>108</line>
+          <properties />
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/PrintC.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/SerializeADerializeC.java</url>
+          <line>232</line>
+          <properties />
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/SerializeADerializeC.java</url>
+          <line>134</line>
+          <properties />
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/SerializeADerializeC.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/SerializeADerializeC.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/SerializeADerializeC.java</url>
+          <line>180</line>
+          <properties />
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="new SerializeADerializeC().Deserializem(&quot;1,2,4,#,#,5,#,#,3,6,8,#,#,#,7,#,#&quot;)" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/CollectionCodeAnalysisSeven/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/CollectionCodeAnalysisSeven/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="270" column="29" selection-start-line="270" selection-start-column="29" selection-end-line="270" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="110" column="11" selection-start-line="110" selection-start-column="11" selection-end-line="110" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/CollectionCodeAnalysisSeven/TestClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-264">
-          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/BinaryTreeNoReculsive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-          <folding>
-            <element signature="e#1738#1739#0" expanded="true" />
-            <element signature="e#1776#1777#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/meituan_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1496">
-          <caret line="68" column="26" selection-start-line="68" selection-start-column="25" selection-end-line="68" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/choushu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/CollectionCodeAnalysisSeven/ArrayListClassTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="64" lean-forward="true" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jvm/test/Readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/OnlyOneString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/order/Readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/order/ReclusiveSplitter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/concurrent/TimeUnit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="119" column="4" selection-start-line="119" selection-start-column="4" selection-end-line="119" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jvm/test/ThreadDepthProblem1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-          <folding>
-            <element signature="e#1235#1377#0" expanded="true" />
-            <element signature="e#1376#1377#0" expanded="true" />
-            <element signature="e#1406#1548#0" expanded="true" />
-            <element signature="e#1547#1548#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/lang/ClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="529" column="40" selection-start-line="529" selection-start-column="18" selection-end-line="529" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/jre/lib/rt.jar!/sun/misc/Launcher.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#0#3330#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/com/sun/org/apache/bcel/internal/util/ClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="180" column="14" selection-start-line="180" selection-start-column="14" selection-end-line="180" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/ReverseSentenceC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/LeftRotateStringC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/TheDepthOfBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jvm/test/ThreadDepthProblem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="109" column="31" lean-forward="true" selection-start-line="109" selection-start-column="31" selection-end-line="109" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="592" column="57" lean-forward="true" selection-start-line="592" selection-start-column="57" selection-end-line="592" selection-end-column="57" />
-          <folding>
-            <element signature="e#19907#19908#0" expanded="true" />
-            <element signature="e#19950#19951#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/lang/InternalError.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
-          <folding>
-            <element signature="e#633#634#0" expanded="true" />
-            <element signature="e#656#657#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/lang/invoke/InvokeDynamic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/lang/invoke/Invokers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="54" column="7" lean-forward="true" selection-start-line="54" selection-start-column="7" selection-end-line="54" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/jre/lib/rt.jar!/com/sun/xml/internal/ws/client/sei/MethodHandler.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="33" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/jre/lib/rt.jar!/com/sun/xml/internal/ws/client/sei/SEIStub.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="74" column="28" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/lang/invoke/MethodType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="90" column="16" selection-start-line="90" selection-start-column="6" selection-end-line="90" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/lang/invoke/MethodHandle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="420" column="30" lean-forward="true" selection-start-line="420" selection-start-column="30" selection-end-line="420" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/lang/invoke/MethodHandles.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
@@ -1087,24 +926,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="17" column="74" lean-forward="true" selection-start-line="17" selection-start-column="74" selection-end-line="17" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jvm/test/ConstClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jvm/test/TestClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1174,53 +995,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jvm/test/TestClassSon.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/MinkNum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-          <folding>
-            <element signature="e#92#93#0" expanded="true" />
-            <element signature="e#115#116#0" expanded="true" />
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1848">
+          <caret line="84" column="15" selection-start-line="84" selection-start-column="14" selection-end-line="84" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/BalanceBinaryTreeProblem.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/ArrayInverseNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-397">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="858">
+          <caret line="39" column="20" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/arrayminvalue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1012">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/ArrayInverseNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/BalanceBinaryTreeProblem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="39" column="20" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/MinkNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="658">
-          <caret line="84" column="15" selection-start-line="84" selection-start-column="14" selection-end-line="84" selection-end-column="15" />
+        <state relative-caret-position="660">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/CheckSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
+        <state relative-caret-position="288">
           <caret line="162" column="10" selection-start-line="162" selection-start-column="10" selection-end-line="162" selection-end-column="10" />
           <folding>
             <element signature="method#findTheSum#0;class#CheckSum#0" />
@@ -1230,6 +1038,301 @@
             <element signature="method#MergeOrder#0;class#CheckSum#0" />
             <element signature="method#fastOrder#0;class#CheckSum#0" />
             <element signature="method#Order#0;class#CheckSum#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jvm/test/Readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/CollectionCodeAnalysisSeven/ArrayListClassTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="22" column="64" lean-forward="true" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jvm/test/ConstClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/bibi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jvm/test/TestClassSon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jvm/test/FieldImpleme.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding>
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jvm/test/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="200" column="25" selection-start-line="200" selection-start-column="25" selection-end-line="200" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="617">
+          <caret line="211" column="6" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/spi/CalendarDataProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/spi/CurrencyNameProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="29" column="38" lean-forward="true" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="82" column="17" selection-start-line="82" selection-start-column="17" selection-end-line="82" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1518">
+          <caret line="99" column="18" lean-forward="true" selection-start-line="99" selection-start-column="18" selection-end-line="99" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#54492#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/Hashtable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="459" column="42" selection-start-line="459" selection-start-column="22" selection-end-line="459" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/CollectionCodeAnalysisSeven/HashMapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="44" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="96" column="22" selection-start-line="96" selection-start-column="22" selection-end-line="96" selection-end-column="22" />
+          <folding>
+            <element signature="e#2786#2787#0" expanded="true" />
+            <element signature="e#2837#2838#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="99" column="22" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="41" column="73" lean-forward="true" selection-start-line="41" selection-start-column="73" selection-end-line="41" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#19327#19328#0" expanded="true" />
+            <element signature="e#19410#19411#0" expanded="true" />
+            <element signature="e#24329#24330#0" expanded="true" />
+            <element signature="e#24394#24395#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/CollectionCodeAnalysisSeven/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="814" column="6" lean-forward="true" selection-start-line="814" selection-start-column="6" selection-end-line="814" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="106" column="19" selection-start-line="106" selection-start-column="19" selection-end-line="106" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="66" column="15" selection-start-line="66" selection-start-column="15" selection-end-line="66" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#3888#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="620" column="35" lean-forward="true" selection-start-line="620" selection-start-column="35" selection-end-line="620" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="189" column="7" selection-start-line="189" selection-start-column="5" selection-end-line="189" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/EntryNodeOfLoopC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/StringFirstNotRepeatChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/GetNextC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="48" column="17" lean-forward="true" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+          <folding>
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#1998#2018#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/isSymmetricalC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-110">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/isNumeriC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1804">
+          <caret line="82" column="5" lean-forward="true" selection-start-line="82" selection-start-column="5" selection-end-line="82" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="828" column="26" selection-start-line="828" selection-start-column="26" selection-end-line="828" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="774" lean-forward="true" selection-start-line="774" selection-end-line="774" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/PrintC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="46" column="24" lean-forward="true" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/SerializeADerializeC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="276" column="9" lean-forward="true" selection-start-line="276" selection-start-column="9" selection-end-line="276" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#PrintDepth#0;class#SerializeADerializeC#0" />
           </folding>
         </state>
       </provider>

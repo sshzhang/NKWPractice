@@ -1,7 +1,6 @@
 package com.CollectionCodeAnalysisSeven;
 
-import java.util.Arrays;
-import java.util.Scanner;
+import java.util.*;
 
 public class Main {
 
@@ -24,6 +23,8 @@ public class Main {
         } else {//奇数个数
             System.out.println(params[params.length / 2]);
         }
+
+
 
     }
 }
