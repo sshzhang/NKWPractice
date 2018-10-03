@@ -11,7 +11,7 @@ public class HashMapTest {
         stringStringHashMap.put(null, null);
 
         Hashtable<String, String> stringStringHashtable = new Hashtable<>();
-        stringStringHashtable.put("12", null);
+        stringStringHashtable.put(null, "12");
 
     }
 }
