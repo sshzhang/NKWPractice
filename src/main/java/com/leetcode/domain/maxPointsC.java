@@ -11,9 +11,7 @@ public class maxPointsC {
         int max = 0;
 
         for (int i = 0; i < points.length; i++) {
-
             HashMap<Float, Integer> floatIntegerHashMap = new HashMap<>();
-
             Point startPoint = points[i];
             int chuzhi=0;
             int chonghe = 0;
