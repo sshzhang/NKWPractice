@@ -81,10 +81,75 @@ public class UisMatch {
     }
 
 
+
+    public boolean isMatchUDP(String s, String p){
+        if(s==null||p==null) return false;
+
+        boolean matchs[][] = new boolean[s.length() + 1][p.length() + 1];
+
+        matchs[0][0] = true;
+        for (int j = 1; j <= p.length(); j++)
+            matchs[0][j]=j>1&&p.charAt(j-1)=='*'&&matchs[0][j-2];
+
+        for (int i = 1; i <= s.length(); i++) {
+            matchs[i][0] = false;
+        }
+
+        for (int i = 1; i <= s.length(); i++) {
+
+            for (int j = 1; j <= p.length(); j++) {
+
+
+                if (p.charAt(j - 1) == '*') {
+
+                    matchs[i][j] = matchs[i][j - 2] || (s.charAt(i - 1) == p.charAt(j - 2) || p.charAt(j - 2) == '.') && matchs[i - 1][j];
+                }else{
+
+                    matchs[i][j] = (p.charAt(j - 1) == '.' || p.charAt(j - 1) == s.charAt(i - 1)) && matchs[i - 1][j - 1];
+                }
+
+            }
+
+        }
+
+
+        return matchs[s.length()][p.length()];
+
+
+
+       /* int m = s.length(),n = p.length();
+        boolean dp[][]=new boolean[m+1][n+1];
+        dp[0][0] = true;
+        for (int i = 1; i <= m; i++)
+            dp[i][0] = false;
+        for (int j = 1; j <= n; j++)
+            dp[0][j] = j > 1 && '*' == p.charAt(j-1) && dp[0][j - 2];
+
+        for (int i = 1; i <= m; i++)
+        {
+            for (int j = 1; j <= n; j++)
+            {
+                if (p.charAt(j - 1) == '*')
+                {
+                    dp[i][j] = dp[i][j - 2] || (s.charAt(i - 1) ==p.charAt(j - 2) || p.charAt(j - 2) == '.') && dp[i - 1][j];
+
+                }
+                else
+                {
+                    dp[i][j] = (p.charAt(j - 1) == '.' || s.charAt(i - 1) == p.charAt(j - 1)) && dp[i - 1][j - 1];
+
+                }
+            }
+        }
+        return dp[m][n];*/
+
+    }
+
+
     public static void main(String... args) {
 
         UisMatch uisMatch = new UisMatch();
-        System.out.println(uisMatch.isMatch("b", "ba**"));
+        System.out.println(uisMatch.isMatchUDP("mississippi", "mis*is*p*."));
 
     }
 }
