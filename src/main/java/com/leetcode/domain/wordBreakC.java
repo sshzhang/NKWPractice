@@ -3,8 +3,6 @@ package com.leetcode.domain;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
-import java.util.Set;
-
 /**
  * 给定字符串和单词集合  找出字符串中所有可能的单词集合
  *
@@ -14,8 +12,6 @@ public class wordBreakC {
     public List<String> wordBreak(String s, List<String> wordDict) {
         return helper(s,wordDict,new HashMap<>());
     }
-
-
     /**
      * 通过DFS 深度优先遍历
      * @param s 表示当前需要匹配的字符串
@@ -58,6 +54,7 @@ public class wordBreakC {
 
 
     private TrieNode root;
+    //split 表示每个单词间隔的位置  splits 表示单词的个数为了处理空格问题  深度优先搜索遍历
     private void find(char[] sa, int from, int[] split, int splits, List<String> words) {
         if (from == sa.length) {
             char[] word = new char[sa.length+splits-1];
@@ -82,6 +79,7 @@ public class wordBreakC {
     public List<String> wordBreakU(String s, List<String> wordDict) {
         List<String> results = new ArrayList<>();
         if (s==null || wordDict==null) return results;
+        //构造字典树
         root = new TrieNode();
         for(String word: wordDict) {
             char[] wa = word.toCharArray();
@@ -89,9 +87,11 @@ public class wordBreakC {
             for(int i=0; i<wa.length; i++) current = current.add(wa[i]);
             current.isWord = true;
         }
+
         char[] sa = s.toCharArray();
         boolean[] reachable = new boolean[sa.length+1];
         reachable[0] = true;
+        // 构造可以到达的数组数据  使用字典树来优化那些不存在单词组合的问题
         for(int i=0; i<sa.length; i++) {
             if (!reachable[i]) continue;
             TrieNode current = root;
