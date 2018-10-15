@@ -24,5 +24,16 @@ public class HashMapTest {
         System.out.println(3&1569);//1
         Stack<Integer>[] ss = new Stack[2];
 
+
+        HashMap<String, String> stringStringHashMap = new HashMap<>();
+
+
+        for (int i = 0; i < 100; i++) {
+            stringStringHashMap.put(i + "", i + "");
+        }
+
+        System.out.println(stringStringHashMap);
+
+
     }
 }
