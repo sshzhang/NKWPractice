@@ -3,6 +3,7 @@ package com.leetcode.domain;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
+import java.util.Set;
 
 /**
  * leetcode 动态规划Word Break II
@@ -42,7 +43,6 @@ public class wordBreakCU {
     }
 
 
-    TriNode root = new TriNode();
 
     public List<String> wordBreakU(String s, List<String> wordDict) {
 
@@ -111,6 +111,44 @@ public class wordBreakCU {
 
 
     }
+
+    TriNode root = new TriNode();
+
+    public boolean wordBreakUU(String s, List<String> wordDict) {
+
+
+        for (String word : wordDict) {
+            TriNode currNode = root;
+            char[] chars = word.toCharArray();
+            for (char ch : chars) {
+                currNode.add(ch);
+                currNode = currNode.next[ch - 'a'];
+            }
+            currNode.isWord = true;
+        }
+
+        boolean[] rechable = new boolean[s.length() + 1];
+        rechable[0] = true;
+
+        char[] chars = s.toCharArray();
+
+        for (int i = 0; i < s.length(); i++) {
+
+            if(!rechable[i]) continue;
+            TriNode currNode = root;
+            for (int j = i; j < s.length()&&currNode!=null; j++) {
+                currNode = currNode.next[chars[j] - 'a'];
+                if(currNode!=null&&currNode.isWord) rechable[j + 1] = true;
+
+            }
+        }
+
+
+        return rechable[s.length()];
+    }
+
+
+
 
 
     //字典树的结构
