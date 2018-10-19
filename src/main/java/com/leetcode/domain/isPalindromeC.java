@@ -3,8 +3,6 @@ package com.leetcode.domain;
 public class isPalindromeC {
 
     public boolean isPalindrome(int x) {
-
-
         String str = String.valueOf(x);
         int len = str.length();
 
