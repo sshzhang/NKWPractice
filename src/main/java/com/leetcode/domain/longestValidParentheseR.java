@@ -4,7 +4,7 @@ import java.util.Stack;
 
 /**
  * leetcode longest Valid Parentheses
- * 
+ *
  */
 public class longestValidParentheseR {
 
