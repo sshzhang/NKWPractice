@@ -10,13 +10,14 @@ public class minDistanceC {
 
     /**
      * 思想　对于单词word1 和word2 dp[i][j] 表示　word1中的第ｉ个字符和word2第j个字符长度是最小的编辑距离
-     *   那么   if word1[i]==word2[j]  dp[i][j]=dp[i-1][j-1]
-     *         否则
-     *            dp[i][j]=dp[i][j-1]+1 //insert  表示插入的数据和 word2[j] 相同
-     *            dp[i][j]=dp[i-1][j]+1//delete
-     *            dp[i][j]=dp[i-1][j-1]+1 //replace
+     * 那么   if word1[i]==word2[j]  dp[i][j]=dp[i-1][j-1]
+     * 否则
+     * dp[i][j]=dp[i][j-1]+1 //insert  表示插入的数据和 word2[j] 相同
+     * dp[i][j]=dp[i-1][j]+1//delete
+     * dp[i][j]=dp[i-1][j-1]+1 //replace
+     * <p>
+     * dp[0][k]=dp[k][0]=k  某个字符串为空时，直接就是字符的个数
      *
-     *  dp[0][k]=dp[k][0]=k  某个字符串为空时，直接就是字符的个数
      * @param word1
      * @param word2
      * @return
@@ -27,7 +28,7 @@ public class minDistanceC {
         int len2 = word2.length();
         int[][] dp = new int[len1 + 1][len2 + 1];
 
-        for (int i = 0; i <=len1; i++) {
+        for (int i = 0; i <= len1; i++) {
             dp[i][0] = i;
         }
         for (int j = 0; j <= len2; j++) {
@@ -38,7 +39,7 @@ public class minDistanceC {
             for (int j = 0; j < len2; j++) {
                 if (word1.charAt(i) == word2.charAt(j)) {
                     dp[i + 1][j + 1] = dp[i][j];
-                }else{
+                } else {
                     int insert = dp[i + 1][j];
                     int delete = dp[i][j + 1];
                     int replace = dp[i][j];
