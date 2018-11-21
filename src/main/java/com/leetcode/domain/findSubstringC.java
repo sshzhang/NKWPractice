@@ -2,7 +2,10 @@ package com.leetcode.domain;
 
 import java.util.*;
 
-public class findSubstringC {public List<Integer> findSubstring(String s, String[] words) {
+public class findSubstringC {
+
+
+    public List<Integer> findSubstring(String s, String[] words) {
     /**
      * Let n=s.length, k=words[0].length traverse s with indices i, i+k,
      * i+2k, ... for 0<=i<k, so that the time complexity is O(n).
