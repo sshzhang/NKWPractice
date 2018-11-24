@@ -4,15 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/com/leetcode/domain/reorderListC.java" line="73" mnemonic="1" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6182ac0-074a-4a6a-8478-13b0e199a4e7" name="Default" comment="20181024U">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/domain/isValidSudokuC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/domain/searchInsertC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/NKWPractice_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/NKWPractice_war_exploded.xml" afterDir="false" />
+    <list default="true" id="b6182ac0-074a-4a6a-8478-13b0e199a4e7" name="Default" comment="20181124U">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/domain/countAndSayC38.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NKWPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/NKWPractice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/textdel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/domain/searchC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/domain/searchC.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,6 +21,9 @@
       <FILTER>com.CollectionCodeAnalysisSeven.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/test$addTwoNumbersC.ic" NAME="addTwoNumbersC Coverage Results" MODIFIED="1539604137510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.leetcode.domain.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/test$countAndSayC38.ic" NAME="countAndSayC38 Coverage Results" MODIFIED="1543029318732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.leetcode.domain.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/test$findSubstringC.ic" NAME="findSubstringC Coverage Results" MODIFIED="1541910966990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -92,15 +89,15 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="55" />
-          <entry key="java" value="75322" />
-          <entry key="txt" value="629" />
+          <entry key="java" value="75874" />
+          <entry key="txt" value="630" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="75318" />
-          <entry key="PLAIN_TEXT" value="684" />
+          <entry key="JAVA" value="75870" />
+          <entry key="PLAIN_TEXT" value="685" />
           <entry key="RegExp" value="4" />
           <entry key="XML" value="2" />
         </counts>
@@ -109,7 +106,7 @@
         <counts>
           <entry key="TestClass" value="1" />
           <entry key="class" value="4" />
-          <entry key="java" value="252" />
+          <entry key="java" value="253" />
           <entry key="txt" value="5" />
           <entry key="xml" value="1" />
         </counts>
@@ -117,7 +114,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="4" />
-          <entry key="JAVA" value="252" />
+          <entry key="JAVA" value="253" />
           <entry key="PLAIN_TEXT" value="5" />
           <entry key="UML" value="1" />
           <entry key="XML" value="1" />
@@ -157,11 +154,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/domain/isValidSudokuC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="100" column="55" selection-start-line="100" selection-start-column="55" selection-end-line="100" selection-end-column="55" />
+            <state relative-caret-position="266">
+              <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/domain/countAndSayC38.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+              <folding>
+                <element signature="e#919#920#0" expanded="true" />
+                <element signature="e#955#956#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -202,6 +212,9 @@
       <find>EMPTY_ELEMENTDATA</find>
       <find>isInterleave(String s1, String s2, String s3)</find>
     </findStrings>
+    <replaceStrings>
+      <replace>'</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -209,7 +222,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/KthNodeC.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/GetMedianAndInsert.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/SerializeADerializeC.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.jianzhioffer.domain/maxInWindowsC.java" />
@@ -260,6 +272,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/leetcode/domain/searchC.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/leetcode/domain/searchInsertC.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/leetcode/domain/isValidSudokuC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/domain/countAndSayC38.java" />
       </list>
     </option>
   </component>
@@ -302,7 +315,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -371,8 +383,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -380,7 +393,7 @@
     <property name="SearchEverywhereHistoryKey" value="HashSe&#9;PSI&#9;JAVA://java.util.HashSet&#10;String&#9;FILE&#9;jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/lang/String.java&#10;Math&#9;FILE&#9;jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/lang/Math.java&#10;TriNode&#9;PSI&#9;JAVA://com.leetcode.domain.TrieNode&#10;Tri&#9;PSI&#9;JAVA://com.leetcode.domain.Trie.TrieNode&#10;Inte&#9;FILE&#9;jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/lang/Integer.java&#10;Double&#9;FILE&#9;jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/lang/Double.java&#10;Map&#9;FILE&#9;jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/Map.java&#10;AbstractMap&#9;PSI&#9;JAVA://java.util.AbstractMap&#10;Hash&#9;FILE&#9;jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/HashMap.java&#10;HashM&#9;FILE&#9;jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/HashMap.java&#10;Stack&#9;FILE&#9;jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/Stack.java&#10;Ser&#9;FILE&#9;file:///home/zxj/IdeaProjects/NKWPractice/src/main/java/com.jianzhioffer.domain/SerializeADerializeC.java&#10;Arra&#9;FILE&#9;jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/Arrays.java&#10;is&#9;FILE&#9;file:///home/zxj/IdeaProjects/NKWPractice/src/main/java/com.jianzhioffer.domain/isNumeriC.java&#10;Hashse&#9;PSI&#9;JAVA://java.util.HashSet&#10;ArraList&#9;FILE&#9;jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/ArrayList.java&#10;TestClass&#9;FILE&#9;file:///home/zxj/IdeaProjects/NKWPractice/src/main/java/com/jvm/test/TestClass.java&#10;MethodHandles&#9;PSI&#9;JAVA://java.lang.invoke.MethodHandles&#10;MethodHandler&#9;PSI&#9;JAVA://java.lang.invoke.MethodHandle&#10;MethodType&#9;PSI&#9;JAVA://java.lang.invoke.MethodType&#10;MethodHandlers&#9;PSI&#9;JAVA://com.sun.xml.internal.ws.client.sei.SEIStub#methodHandlers&#10;java.lang.invoke&#9;PSI&#9;JAVA://java.lang.invoke.Invokers&#10;System&#9;PSI&#9;JAVA://java.lang.System&#10;AppClass&#9;PSI&#9;JAVA://sun.misc.Launcher.AppClassLoader&#10;ClassLoader&#9;PSI&#9;JAVA://java.lang.ClassLoader&#10;ClassLoa&#9;PSI&#9;JAVA://com.sun.org.apache.bcel.internal.util.ClassLoader&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;Compara&#9;PSI&#9;JAVA://java.lang.Comparable&#10;ArrayList&#9;FILE&#9;jar:///usr/lib/jdk/jdk1.8.0_181/src.zip!/java/util/ArrayList.java&#10;Arrays&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Arrays.java&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;Predicate&#9;PSI&#9;JAVA://java.util.function.Predicate&#10;Vector&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Vector.java&#10;Executors&#9;PSI&#9;JAVA://java.util.concurrent.Executors&#10;Executor&#9;PSI&#9;JAVA://java.util.concurrent.Executor&#10;LongA&#9;PSI&#9;JAVA://java.util.concurrent.atomic.LongAdder&#10;AtomicLong&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicLong" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543024931240" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543039778186" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -404,7 +417,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.isValidSudokuC">
+  <component name="RunManager" selected="Application.countAndSayC38">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -413,6 +426,20 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="countAndSayC38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.domain.countAndSayC38" />
+      <module name="NKWPractice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -495,23 +522,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ispermute.permute" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="NKWPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leetcode.domain.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.leetcode.domain" />
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.domain.ispermute" />
-      <option name="METHOD_NAME" value="permute" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
@@ -531,19 +541,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.maxPointsC" />
-      <item itemvalue="JUnit.ispermute.permute" />
       <item itemvalue="Application.ispermute" />
       <item itemvalue="Application.searchC" />
       <item itemvalue="Application.searchInsertC" />
       <item itemvalue="Application.isValidSudokuC" />
+      <item itemvalue="Application.countAndSayC38" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.countAndSayC38" />
         <item itemvalue="Application.isValidSudokuC" />
         <item itemvalue="Application.searchInsertC" />
         <item itemvalue="Application.searchC" />
         <item itemvalue="Application.ispermute" />
-        <item itemvalue="JUnit.ispermute.permute" />
       </list>
     </recent_temporary>
   </component>
@@ -577,7 +587,7 @@
       <workItem from="1542458352158" duration="1585000" />
       <workItem from="1542716205760" duration="5804000" />
       <workItem from="1542806595969" duration="13433000" />
-      <workItem from="1543020713630" duration="4623000" />
+      <workItem from="1543020713630" duration="7400000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode第一题">
       <created>1538579104771</created>
@@ -712,7 +722,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542438378199</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="20181124U">
+      <created>1543025412265</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1543025412265</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -727,7 +744,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="387974000" />
+    <option name="totallyTimeSpent" value="390751000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
@@ -748,18 +765,18 @@
       <window_info anchor="bottom" id="Version Control" order="4" weight="0.32776618" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.32984293" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.32460734" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.32460734" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.21151832" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32984293" />
-      <window_info anchor="right" id="Coverage" order="0" sideWeight="0.5034602" side_tool="true" weight="0.32946378" />
+      <window_info anchor="right" id="Coverage" order="0" sideWeight="0.50542635" side_tool="true" weight="0.32946378" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
       <window_info anchor="right" x="-1274" y="352" width="1182" height="284" id="Documentation" order="3" type="FLOATING" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" sideWeight="0.4965398" weight="0.32946378" />
+      <window_info anchor="right" id="Maven Projects" order="5" sideWeight="0.49457365" weight="0.32946378" />
       <window_info anchor="right" id="Database" order="6" weight="0.32946378" />
       <window_info anchor="right" id="Palette" order="7" />
       <window_info anchor="right" id="Commander" order="8" weight="0.4" />
@@ -790,12 +807,12 @@
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32984293" />
-      <window_info anchor="right" id="Coverage" order="0" sideWeight="0.5034602" side_tool="true" weight="0.32946378" />
+      <window_info anchor="right" id="Coverage" order="0" sideWeight="0.50542635" side_tool="true" visible="true" weight="0.32946378" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
       <window_info anchor="right" x="-1274" y="352" width="1182" height="284" id="Documentation" order="3" type="FLOATING" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" sideWeight="0.4965398" weight="0.32946378" />
+      <window_info anchor="right" id="Maven Projects" order="5" sideWeight="0.49457365" visible="true" weight="0.32946378" />
       <window_info anchor="right" id="Database" order="6" weight="0.32946378" />
       <window_info anchor="right" id="Palette" order="7" />
       <window_info anchor="right" id="Commander" order="8" weight="0.4" />
@@ -856,7 +873,8 @@
     <MESSAGE value="20181029" />
     <MESSAGE value="20181030" />
     <MESSAGE value="20181117U" />
-    <option name="LAST_COMMIT_MESSAGE" value="20181117U" />
+    <MESSAGE value="20181124U" />
+    <option name="LAST_COMMIT_MESSAGE" value="20181124U" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1287,6 +1305,12 @@
           <properties />
           <option name="timeStamp" value="189" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/domain/countAndSayC38.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -1344,13 +1368,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/domain/twoSumC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/domain/lengthOfLongestSubstringC.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="458">
@@ -1705,8 +1722,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/domain/isValidSudokuC.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="100" column="55" selection-start-line="100" selection-start-column="55" selection-end-line="100" selection-end-column="55" />
+        <state relative-caret-position="266">
+          <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/domain/countAndSayC38.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding>
+            <element signature="e#919#920#0" expanded="true" />
+            <element signature="e#955#956#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
