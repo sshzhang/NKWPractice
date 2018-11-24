@@ -18,8 +18,6 @@ public class searchC {
 
         int end = nums.length - 1;
         int start = 0;
-
-
         while (start <= end) {
             int mid = (start + end) / 2;
             if(nums[mid]==target) return mid;
