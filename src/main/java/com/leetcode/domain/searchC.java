@@ -77,22 +77,14 @@ public class searchC {
                 else
                     end = mid - 1;
             }
-
             // start--->mid 有序
             if (nums[start] <= nums[mid]) {
-
                 if (target >= nums[start] && target < nums[mid])
                     end = mid - 1;
                 else
                     start = mid + 1;
-
             }
-
-
-
         }
-
-
         return -1;
     }
 

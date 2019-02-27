@@ -1,39 +1,18 @@
 package com.CollectionCodeAnalysisSeven;
 
 import java.util.HashMap;
-import java.util.Stack;
 
 public class HashMapTest {
 
     public static void main(String... args) {
 
         //　是否为空
-        /*HashMap<String, String> stringStringHashMap = new HashMap<>();
-        stringStringHashMap.put(null, null);
-
-        Hashtable<String, String> stringStringHashtable = new Hashtable<>();
-        stringStringHashtable.put(null, "12");*/
-
-
-        HashMap<String, String> firstMap = new HashMap<>();
-        firstMap.put("12", "12");
-        firstMap.put("13", "13");
-        HashMap<String, String> secondMap = new HashMap<>(firstMap);
-        System.out.println(secondMap.get("12"));
-
-        System.out.println(3&1569);//1
-        Stack<Integer>[] ss = new Stack[2];
-
-
         HashMap<String, String> stringStringHashMap = new HashMap<>();
-
-
-        for (int i = 0; i < 100; i++) {
-            stringStringHashMap.put(i + "", i + "");
+        stringStringHashMap.put("test", "value");
+        stringStringHashMap.put("test0", "value2");
+        for (int i = 1; i <= 10; i++) {
+            stringStringHashMap.put("test" + i, "value" + i);
         }
-
-        System.out.println(stringStringHashMap);
-
-
+        System.out.println(stringStringHashMap.size());
     }
 }

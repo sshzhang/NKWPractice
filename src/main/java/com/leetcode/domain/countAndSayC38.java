@@ -6,17 +6,13 @@ package com.leetcode.domain;
 public class countAndSayC38 {
 
     public String countAndSay(int n) {
-
         String str = "1";
         String tempt = "";
         for (int i = 2; i <= n; i++) {
-
             int len = str.length();
-
             char index = '.';
             int count = 0;
             for (int j = 0; j < len; j++) {
-
                 if (index == '.') {//初始值
                     index = str.charAt(j);
                     count++;
@@ -42,5 +38,4 @@ public class countAndSayC38 {
     public static void main(String... args) {
         System.out.println(new countAndSayC38().countAndSay(5));
     }
-
 }

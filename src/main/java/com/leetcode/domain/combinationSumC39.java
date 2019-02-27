@@ -106,22 +106,16 @@ public class combinationSumC39 {
 
         params.clear();
         Arrays.sort(candidates);
-
         //统计相同数字的个数
-
-
         int count = 1;
         for (int i = 1; i < candidates.length; i++) {
-
             if (candidates[i - 1] != candidates[i]) {
                 count++;
             }
         }
-
         // 增加一个末尾结束标志
         int[] incandidates = Arrays.copyOf(candidates, candidates.length + 1);
         incandidates[incandidates.length - 1] = -1;
-
 
         //统计不同数字
         int[] candidatesC = new int[count];
