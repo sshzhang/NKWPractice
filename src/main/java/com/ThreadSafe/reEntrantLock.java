@@ -7,7 +7,7 @@ package com.ThreadSafe;
  */
 public class reEntrantLock {
 
-    public  synchronized  void doSomething() {
+    public synchronized void doSomething() {
         System.out.println(this);
     }
 
